@@ -34,7 +34,7 @@ html{
     width: 60%;
     transform-origin: right;
     right: 0;
-    z-index: 10;
+    z-index: 9;
     position: absolute;
     clip-path: polygon(20% 0, 100% 0, 100% 100%, 0 100%);
 }
